@@ -1,4 +1,4 @@
-const tf = require('@tensorflow/tfjs-node');
+const tf = require('@tensorflow/tfjs');
 const csv = require('csv-parser');
 const fs = require('fs');
 const readline = require('readline');
