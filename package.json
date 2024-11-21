@@ -1,0 +1,15 @@
+{
+  "name": "customer-churn-prediction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dirta putra",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "csv-parser": "^3.0.0"
+  }
+}
