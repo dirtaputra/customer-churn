@@ -1,7 +1,3 @@
-Berikut adalah **README.md** dalam bahasa Indonesia dengan penjelasan yang mudah dimengerti:
-
----
-
 # **Prediksi Churn Pelanggan menggunakan Node.js dan TensorFlow.js**
 
 Proyek ini menggunakan **Node.js** dan **TensorFlow.js** untuk membangun model machine learning yang dapat memprediksi apakah seorang pelanggan akan berhenti menggunakan layanan (churn) atau tetap melanjutkan (tidak churn).
